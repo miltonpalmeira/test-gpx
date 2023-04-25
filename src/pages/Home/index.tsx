@@ -1,7 +1,7 @@
 import Clock from '../../components/clock';
 import ItemHandler from '../../components/item_handler';
 import ShyBall from '../../components/shy_ball';
-import styles from './home.module.css';
+import styles from './Home.module.css';
 
 export default function Home() {
   return (

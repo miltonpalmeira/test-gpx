@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import styles from './clock.module.css';
+import styles from './Clock.module.css';
 import { getCurrentTime } from '../../utils/Time';
 
 interface ITime {

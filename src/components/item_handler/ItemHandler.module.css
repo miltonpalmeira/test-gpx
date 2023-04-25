@@ -1,0 +1,19 @@
+.container {
+    width: 100%;
+    height: 50vh;
+    background-color: #DEB887;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.div-select, .div-text {
+    margin-bottom: 10px;
+}
