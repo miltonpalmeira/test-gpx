@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-gpx/static/css/main.58408451.css",
+    "main.js": "/test-gpx/static/js/main.c4731359.js",
+    "static/js/787.6658580b.chunk.js": "/test-gpx/static/js/787.6658580b.chunk.js",
+    "index.html": "/test-gpx/index.html",
+    "main.58408451.css.map": "/test-gpx/static/css/main.58408451.css.map",
+    "main.c4731359.js.map": "/test-gpx/static/js/main.c4731359.js.map",
+    "787.6658580b.chunk.js.map": "/test-gpx/static/js/787.6658580b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58408451.css",
+    "static/js/main.c4731359.js"
+  ]
+}
