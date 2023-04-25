@@ -7,6 +7,7 @@ interface ISelect {
 }
 
 export default function SelectComponent({ value, options, onChange }: ISelect) {
+  // Retorna o index do item selecionado -1 devido ao primeiro item "Seleciona uma opção" 
   const handleChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
     onChange(options[e.target.selectedIndex - 1].value);
   };

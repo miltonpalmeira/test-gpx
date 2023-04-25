@@ -11,6 +11,7 @@ interface ITime {
 export default function Clock() {
   const [time, setTime] = useState<ITime>();
 
+  // O componente relógio será atualizado a cada 1 segundo.
   useEffect(() => {
     const interval = setInterval(() => {
       const now = getCurrentTime();
