@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Inicialmente, baixe o repostório para sua máquina e abra a pasta do projeto com seu editor favorito.
 Digite o comando abaixo para instalar a dependências do projeto:
 
-### `npm start`
+### `npm install`
 
 Depois de finalizado basta utilizar o comando:
 
