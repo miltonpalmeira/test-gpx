@@ -7,6 +7,8 @@ export default function ShyBall() {
   
   const moveBall = () => {
     const box = document.querySelector('#container');
+    // Gera um número aleatório até 10 e multiplica pelo tamanho da div container dividido por 10
+    // No caso da posição Y foi adicionado o valor -50 para evitar de ultrapassar o limite abaixo da div
     setPositionX(Math.floor(Math.random() * 10) * (box!.clientHeight / 10));
     setPositionY(Math.floor(Math.random() * 10) * (box!.clientHeight / 10) - 50);
   };
